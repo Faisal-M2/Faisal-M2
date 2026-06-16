@@ -63,11 +63,3 @@ I enjoy turning ideas into real, working products — from concept to deployment
 
 
   
-
-
-
-
-
-
-
-  

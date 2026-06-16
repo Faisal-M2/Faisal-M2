@@ -4,7 +4,6 @@ I'm a Computer Science student at **King Fahd University of Petroleum and Minera
 
 My work spans two domains:
 
-
 - 🌐 **Web Development** — Crafting modern, performant web applications and interfaces
 - 📱 **Mobile Development** — Building cross-platform mobile apps with clean UX
 
@@ -14,9 +13,7 @@ I enjoy turning ideas into real, working products — from concept to deployment
 
 ## 🌐 Socials
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_USERNAME)
-[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/YOUR_USERNAME)
-[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@YOUR_USERNAME)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/faisal-baeshen/)
 
 ---
 
@@ -74,4 +71,3 @@ I enjoy turning ideas into real, working products — from concept to deployment
 
 
   
-
